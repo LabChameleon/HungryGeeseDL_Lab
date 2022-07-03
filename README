@@ -1,0 +1,3 @@
+Project for the Kaggle competition 'Hungry Geese' developed in a Deep Learning lab at my university. 
+We mainly used a Deep Q-Network approach for learning our policy. More information about the competition
+can be found at 'https://www.kaggle.com/c/hungry-geese/overview'.
